@@ -12,3 +12,5 @@ jobs:
     - name: Run a multi-line script
       run: |
         touch myfile.txt
+        touch myfile2.txt
+        echo "This is for showing something...."
